@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\pttiw\\OneDrive\\Desktop\\1\\ZK-SNARK-Designer\\contracts\\MultiplierVerifier.sol": {
+      "lastModificationDate": 1716495880165,
+      "contentHash": "ef340d7503a322dc07cd9538820ec4ce",
+      "sourceName": "contracts/MultiplierVerifier.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Pairing",
+        "Verifier"
+      ]
+    }
+  }
+}
